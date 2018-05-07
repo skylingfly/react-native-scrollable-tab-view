@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skylingfly/react-native-scrollable-tab-view.git"
+    "url": "git+https://github.com/brentvatne/react-native-scrollable-tab-view.git"
   },
   "keywords": [
     "react-native-component",
@@ -27,7 +27,7 @@
   "peerDependencies": {
     "react-native": ">=0.20.0"
   },
-  "homepage": "https://github.com/skylingfly/react-native-scrollable-tab-view.git#readme",
+  "homepage": "https://github.com/brentvatne/react-native-scrollable-tab-view#readme",
   "dependencies": {
     "react-timer-mixin": "^0.13.3",
     "prop-types": "^15.6.0",
